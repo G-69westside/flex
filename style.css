@@ -1,0 +1,13 @@
+.container {
+  border: 1px solid #808080;
+  display:flex;
+  /* by default flex direction is set to ROW */
+  flex-direction: column;
+}
+.box {
+  border: 1px solid green;
+  background: gold;
+  width: 5rem;
+  height: 5rem;
+  margin: 2rem;
+}
